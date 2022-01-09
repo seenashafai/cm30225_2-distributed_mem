@@ -1,8 +1,0 @@
-MPI Communicator initialised with 4 processors
-Starting computation on 18 total rows, with 4 rows per thread and a remainder of 2
-Completed in 38 iterations
-Duration:0.001275
-MPI Communicator initialised with 4 processors
-Starting computation on 8 total rows, with 2 rows per thread and a remainder of 0
-Completed in 31 iterations
-Duration:0.001188
