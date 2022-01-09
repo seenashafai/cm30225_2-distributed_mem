@@ -1,0 +1,13 @@
+#!/bin/sh
+# Account & partition (must have these)
+#SBATCH --account=cm30225
+#SBATCH --partition=teaching
+# Name of job (optional)
+#SBATCH --job-name=distributed_ss
+# one node
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=10
+# any normal shell stuff
+pwd
+# Run the program
+./main
